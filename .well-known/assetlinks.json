@@ -1,8 +1,16 @@
-[{
+[
+  {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { 
     "namespace": "android_app", 
     "package_name": "com.nextint.learncrypto.app",
-    "sha256_cert_fingerprints": ["6F:7D:6B:07:AA:C1:1F:4A:65:78:E4:70:90:3C:07:6A:23:F6:11:31:9D:17:6D:1D:6E:47:B6:2B:4F:03:95:EC"] 
+    "sha256_cert_fingerprints": ["6F:7D:6B:07:AA:C1:1F:4A:65:78:E4:70:90:3C:07:6A:23:F6:11:31:9D:17:6D:1D:6E:47:B6:2B:4F:03:95:EC"] }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+    "namespace": "android_app", 
+    "package_name": "com.nextint.learncrypto.app",
+    "sha256_cert_fingerprints": ["74:D5:74:DA:41:77:FF:FE:7B:F8:86:76:EF:FF:12:0F:BC:CB:27:D5:11:6D:2A:78:59:12:6E:48:96:8D:F4:E2"] }
   }
-}]
+]
